@@ -1,4 +1,6 @@
-These guidelines should be seen as an extension to the "Google Swift Style Guide": www.google.github.io/swift/ and the Apple API Design Guidelines: www.swift.org/documentation/api-design-guidelines/
+These guidelines should be seen as an extension to the "Google Swift Style Guide": www.google.github.io/swift/ ,
+Kodeco: www.github.com/kodecocodes/swift-style-guide
+and the "Apple API Design Guidelines": www.swift.org/documentation/api-design-guidelines/
 
 
 ## Vertical Whitespace
